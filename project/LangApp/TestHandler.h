@@ -1,0 +1,4 @@
+#ifndef TESTHANDLER_H
+#define TESTHANDLER_H
+
+#endif // TESTHANDLER_H
